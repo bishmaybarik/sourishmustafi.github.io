@@ -6,22 +6,6 @@ title: Extras
 # Music
 
 Here are some of the projects I’ve worked on that I’d like to showcase. Feel free to explore and contribute!
-
-<div class="repositories">
-    <div class="repository-card">
-        <a href="https://github.com/bishmaybarik/income-pyramids-clean" target="_blank">
-            <h3>Cleaned Data - Income Pyramids_dx - CMIE</h3>
-            <p>Cleaning the CMIE Income Pyramids datasets by first converting the csv files into .dta files, and then appending the datasets to create a panel dataset. </p>
-        </a>
-    </div>
-
-<div class="repositories">
-    <div class="repository-card">
-        <a href="https://github.com/bishmaybarik/ngram-code" target="_blank">
-            <h3>Code for District Matching - Using N-Gram and Jaccard Similarities </h3>
-            <p>This is a simple code for matching districts across two datasets (CSV), with associated probability of matching. </p>
-        </a>
-    </div>
     <!-- Add more repositories as needed -->
 </div>
 
